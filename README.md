@@ -1,4 +1,3 @@
 # hello-world
 test 
-i'm David 
-a junior student
+i'm David a junior student
